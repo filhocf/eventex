@@ -2,7 +2,7 @@
 
 Sistema de Eventos encomendado pela Morena.
 
-[![Build Status](https://travis-ci.com/filhocf/eventex.svg?branch=master)](https://travis-ci.com/filhocf/eventex)
+[![Build Status](https://app.travis-ci.com/filhocf/eventex.svg?branch=master)](https://travis-ci.com/filhocf/eventex)
 
 ## Como desenvolver?
 
