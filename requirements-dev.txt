@@ -1,2 +1,2 @@
--r requiriments.txt
+-r requirements.txt
 jupyter
